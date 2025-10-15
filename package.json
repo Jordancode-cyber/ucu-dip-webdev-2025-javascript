@@ -1,5 +1,28 @@
 {
+  "name": "ucu-dip-webdev-2025-javascript",
+  "version": "1.0.0",
+  "description": "server_student",
+  "keywords": [
+    "student"
+  ],
+  "homepage": "https://github.com/Jordancode-cyber/ucu-dip-webdev-2025-javascript#readme",
+  "bugs": {
+    "url": "https://github.com/Jordancode-cyber/ucu-dip-webdev-2025-javascript/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordancode-cyber/ucu-dip-webdev-2025-javascript.git"
+  },
+  "license": "ISC",
+  "author": "Jordan",
+  "type": "commonjs",
+  "main": "Express.js",
+  "scripts": {
+    "test": "student",
+    "start": "node server.js"
+  },
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "mysql2": "^3.15.2"
   }
 }
