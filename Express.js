@@ -13,7 +13,7 @@ let user = [
 // Get all users
 app.get('/users', (req, res) => {
     res.json(user);
-});
+}); 
 
 // Get user by id
 app.get('/users/:id', (req, res) => {

@@ -23,6 +23,6 @@
   },
   "dependencies": {
     "express": "^5.1.0",
-    "mysql2": "^3.15.2"
+    "mysql2": "^3.15.3"
   }
 }
